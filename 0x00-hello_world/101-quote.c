@@ -2,7 +2,7 @@
 
 /**
  * main - print to stderr
- * return: 1
+ * return: 1 (standard error)
  */
 
 int main(void)
