@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 /**
  * main - print a string of letters
@@ -7,7 +8,7 @@
 
 int main(void)
 {
-	char i[] = '"Programming is like building a multilingual puzzle';
+	char i[] = "\"Programming is like building a multilingual puzzle";
 
 	puts(i);
 	return (0);
