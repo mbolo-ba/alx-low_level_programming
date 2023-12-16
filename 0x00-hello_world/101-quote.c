@@ -3,6 +3,7 @@
 /**
  * main - print to stderr
  * Return: 1
+ *
  */
 
 int main(void)
